@@ -4,7 +4,7 @@ from main import subtrair
 
 def teste_soma():
         """docstring for test somar"""
-        assert somar(10,3) == 14
+        assert somar(10,3) == 13
 
 def teste_subtracao():
 	"""docstring for test subtrair"""
