@@ -3,7 +3,7 @@
 
 def somar(a,b):
         """docstring for somar"""
-        return (a+b)
+        return (a+b+c)
 
 def subtrair(x,y):
 	"""docstring for subtrair"""
